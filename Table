@@ -4,7 +4,9 @@
         "Escape": {},
         "BlackPanther": {},
         "BatMan": {},
-        "Invincible": {4158901433},
+        "Invincible": {
+            "4158901433": {}
+        },
         "Ghost": {},
         "SuperBoy": {},
         "NightWing": {},
