@@ -1,0 +1,26 @@
+return {
+	["Hero"] = {
+		["Flash"] = {},
+		["Escape"] = {},
+		["BlackPanther"] = {},
+		["BatMan"] = {},
+		["Invincible"] = {},
+		["Ghost"] = {},
+		["SuperBoy"] = {},
+		["NightWing"] = {},
+		["IronMan"] = {},
+		
+		["HumanTorch"] = {
+			["Orange"] = {},
+			["Purple"] = {}
+		},
+	},
+	
+	["Shazam"] = {
+		["Red"] = {},
+		["Green"] = {},
+		["Blue"] = {},
+		["BlackAdam"] = {},
+		["Superman"] = {},
+	},
+}
