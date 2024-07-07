@@ -1,26 +1,7 @@
 {
     "Hero": {
-        "Flash": {},
-        "Escape": {},
-        "BlackPanther": {},
-        "BatMan": {},
         "Invincible": {
             "4158901433": {}
-        },
-        "Ghost": {},
-        "SuperBoy": {},
-        "NightWing": {},
-        "IronMan": {},
-        "HumanTorch": {
-            "Orange": {},
-            "Purple": {}
         }
-    },
-    "Shazam": {
-        "Red": {},
-        "Green": {},
-        "Blue": {},
-        "BlackAdam": {},
-        "Superman": {}
     }
 }
